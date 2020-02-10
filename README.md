@@ -15,6 +15,8 @@ Unity
 6. 動畫製作(3Dmax，Maya，Blender 之類軟體)
 7. 輸出
 
+![](https://github.com/PeterLukGit/PBR-3D-Exercise/blob/master/01.PNG)
+
 # 責任聲明：
 
 [Blog位置](https://peterlukgit.github.io/)
