@@ -1,5 +1,10 @@
 # PBR-3D-Exercise
 PBR練習
+使用軟體
+Zbrush、
+3Dmax、
+Substance Painter、
+Unity
 
 ## PBR製作流程
 1. 高模製作(Zbrush，Blender 雕刻3D軟體製作)
